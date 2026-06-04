@@ -1,0 +1,14 @@
+// overview description file for breeze.bsp
+
+global
+{
+	ZOOM	1.23
+	ORIGIN	-46	-256	-128
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/breeze.bmp"
+	HEIGHT	-128
+}

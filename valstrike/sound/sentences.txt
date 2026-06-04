@@ -1,0 +1,50 @@
+MRAD_GETINPOS radio/com_getinpos
+MRAD_GO radio/com_go
+MRAD_REPORTIN radio/com_reportin
+MRAD_FOLLOWCOM radio/com_followcom
+MRAD_AFFIRM radio/ct_affirm
+MRAD_BACKUP radio/ct_backup
+MRAD_COVERME radio/ct_coverme
+MRAD_ENEMYSPOT radio/ct_enemys
+MRAD_FIREINHOLE radio/ct_fireinhole
+MRAD_IMHIT radio/ct_imhit
+MRAD_INPOS radio/ct_inpos
+MRAD_POINT radio/ct_point
+MRAD_REPRTINGIN radio/ct_reportingin
+
+MRAD_CTWIN vox/Play_VO_Announcer_DefendersWinMatch_0
+MRAD_HOSDOWN radio/hosdown
+MRAD_LETSGO radio/letsgo
+MRAD_LOCKNLOAD radio/locknload
+MRAD_MATEDOWN radio/matedown
+MRAD_MOVEOUT radio/moveout
+MRAD_RESCUED radio/rescued
+MRAD_ROGER radio/roger
+MRAD_TERWIN vox/Play_VO_Announcer_AttackersWinMatch_0
+MRAD_ENEMYDOWN radio/enemydown
+MRAD_ROUNDDRAW radio/rounddraw
+MRAD_ELIM radio/elim
+MRAD_GETOUT radio/getout
+MRAD_VIP radio/vip
+
+MRAD_BLOW radio/blow
+MRAD_BOMBDEF radio/bombdef
+MRAD_BOMBPL radio/bombpl
+MRAD_CLEAR radio/clear
+MRAD_FALLBACK radio/fallback
+MRAD_GOGOGO radio/com_go
+MRAD_HITASSIST radio/fireassis
+MRAD_REGROUP radio/regroup
+MRAD_STICKTOG radio/sticktog
+
+MRAD_TAKEPOINT radio/takepoint
+MRAD_POSITION radio/position
+MRAD_CIRCLEBACK radio/circleback
+MRAD_FOLLOWME radio/followme
+MRAD_MEETME radio/meetme
+MRAD_STORMFRONT radio/stormfront
+MRAD_NEGATIVE radio/negative
+
+MRAD_spikeCDead vox/Play_VO_Announcer_SpikeCarrierKilled
+MRAD_oneleft vox/Play_VO_Announcer_OneEnemyRemaining
+MRAD_laststanding vox/Play_VO_Announcer_LastStanding

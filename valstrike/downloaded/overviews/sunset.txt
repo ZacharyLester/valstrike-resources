@@ -1,0 +1,14 @@
+// overview description file for Sunset.bsp
+
+global
+{
+	ZOOM	1.05
+	ORIGIN	320	352	-16
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/Sunset.bmp"
+	HEIGHT	-16
+}

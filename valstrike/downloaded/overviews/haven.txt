@@ -1,0 +1,14 @@
+// overview description file for de_haven.bsp
+
+global 
+{
+	ZOOM	1.75
+	ORIGIN	-6 	82	268.5
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_haven.bmp"
+	HEIGHT	-136
+}

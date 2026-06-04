@@ -1,0 +1,14 @@
+// overview description file for de_icebox.bsp
+
+global 
+{
+	ZOOM	1.53
+	ORIGIN	-4 	7	192.5
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_icebox.bmp"
+	HEIGHT	-257
+}

@@ -1,0 +1,3 @@
+TracerPos: 1.0 4.0 -7.0
+TracerYposDecreaseAmount: 10
+TracerYposMinMax: 10 -3

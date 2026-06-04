@@ -1,0 +1,14 @@
+// overview description file for lotus.bsp
+
+global
+{
+	ZOOM	1.17
+	ORIGIN	-328	224	-64
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/lotus.bmp"
+	HEIGHT	-64
+}

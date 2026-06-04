@@ -1,0 +1,14 @@
+// overview description file for de_ascent.bsp
+
+global 
+{
+	ZOOM	1.44
+	ORIGIN	-2 	-33	704
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_ascent.bmp"
+	HEIGHT	-130
+}

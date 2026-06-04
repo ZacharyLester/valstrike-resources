@@ -1,0 +1,14 @@
+// overview description file for pearl.bsp
+
+global
+{
+	ZOOM	1.23
+	ORIGIN	42	640	-184
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE	"overviews/pearl.bmp"
+	HEIGHT	-184
+}

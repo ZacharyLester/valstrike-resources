@@ -1,0 +1,11 @@
+10
+weapon			320 320hud2	80	168	80	20
+weapon_s		320 320hud2	80	188	80	20
+ammo			320 640hud7	0	96	24	24
+crosshair		320 assault	0	0	256	256
+autoaim			320 assault	0	0	256	256
+weapon			640 640hud001	0	46	171	47
+weapon_s		640 640hud002	0	46	171	47
+ammo			640 640hud000	0	122	32	31
+crosshair		640 assault	0	0	256	256
+autoaim			640 assault	0	0	256	256

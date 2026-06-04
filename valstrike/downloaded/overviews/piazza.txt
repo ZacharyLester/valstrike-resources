@@ -1,0 +1,14 @@
+// overview description file for de_split.bsp
+
+global 
+{
+	ZOOM	1.48
+	ORIGIN	-4 	236	176
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/piazza.bmp"
+	HEIGHT	-162
+}

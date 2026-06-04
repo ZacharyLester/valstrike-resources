@@ -1,0 +1,14 @@
+// overview description file for de_bind.bsp
+
+global 
+{
+	ZOOM	1.35
+	ORIGIN	-627.5 	-32.5	236.5
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_bind.bmp"
+	HEIGHT	-130
+}
