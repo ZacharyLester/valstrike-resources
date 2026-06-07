@@ -4,6 +4,7 @@ ValStrike Resources
 CREDITS:
 
 - Xash3d team
+- MoeMod
 - iQuit
 - Tempo Channel
 - Albus Dumbledore
